@@ -1315,7 +1315,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalForce: 16
-  verticalForce: 16
+  verticalForce: 50
 --- !u!50 &1002786102
 Rigidbody2D:
   serializedVersion: 4
